@@ -1,6 +1,6 @@
 <script lang="ts">
 	import Icon from '$lib/components/icon/Icon.svelte';
-	import '$lib/styles/variables.css';
+	import '../../styles/variables.css';
 
 	import type { Snippet } from 'svelte';
 	interface Props {
